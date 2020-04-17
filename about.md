@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-I'm a librarian with over 15 years of experience in a variety of roles within a large organization. My current focus is being a friendly face at <a href="https://www.newyorker.com/books/page-turner/the-unruly-pleasures-of-the-mid-manhattan-library">one of the busiest circulating libraries in the country</a>, maintaining collections, and developing <a href="/work/2018/06/04/deathcafe.html">compelling programs</a> for the community.
+I'm a librarian with over 15 years of experience in a variety of roles within a large organization. My current focus is being a friendly face at <a href="https://www.newyorker.com/books/page-turner/the-unruly-pleasures-of-the-mid-manhattan-library">one of the busiest circulating libraries in the country</a>, maintaining collections, and developing compelling programs for the community.
 
 My customer service roots are in the video store industry at the turn of the century; since then I have been a technology trainer, reference librarian, community information specialist, digital producer, and project manager. In addition to cooking and crafting, I like to write and work on small projects like this website. It's a place to share some of my <a href="/work">professional work</a> as well as notes on some <a href="/reading">books</a> and <a href="/travel">places</a> I've enjoyed.
 
